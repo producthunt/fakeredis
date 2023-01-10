@@ -1,3 +1,7 @@
+This fork fixes an issue with the `auth` method for newer redis versions.
+
+<hr />
+
 # FakeRedis [![Build Status](https://secure.travis-ci.org/guilleiguaran/fakeredis.png)](http://travis-ci.org/guilleiguaran/fakeredis)
 This a fake implementation of redis-rb for machines without Redis or test environments
 
